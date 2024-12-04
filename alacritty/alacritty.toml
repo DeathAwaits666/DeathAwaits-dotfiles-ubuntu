@@ -1,0 +1,11 @@
+[terminal]
+[terminal.shell]
+program = "zellij"
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/flat_remix.toml"
+]
+
+[window]
+opacity = 0.9

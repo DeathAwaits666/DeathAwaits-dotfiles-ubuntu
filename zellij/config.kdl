@@ -1,0 +1,10 @@
+theme "ansi"
+default_layout "compact"
+pane_frames true
+
+ui {
+    pane_frames {
+        hide_session_name true
+    }
+}
+
